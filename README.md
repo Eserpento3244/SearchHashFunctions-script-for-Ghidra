@@ -1,0 +1,1 @@
+# SearchHashFunctions-script-for-Ghidra
